@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Emotion/8cxrazR5i.png</file>
+        <file>Emotion/181-1812604_sad-suffering-crying-emoticon-face-vector-number-5.png.jpg</file>
+        <file>../../Emoticon/8cxrazR5i.png</file>
+        <file>../../Emoticon/181-1812604_sad-suffering-crying-emoticon-face-vector-number-5.png.jpg</file>
+        <file>../../Emoticon/220px-Emoticon_Smile_Face.svg.png</file>
+        <file>../../Emoticon/39878.png</file>
+        <file>../../Emoticon/40186.png</file>
+        <file>../../Emoticon/40263.png</file>
+        <file>../../Emoticon/40307.png</file>
+        <file>../../Emoticon/52190.png</file>
+        <file>../../Emoticon/264207ea5fa836ec53ae6249fe0fb22f.jpg</file>
+        <file>../../Emoticon/850638-200.png</file>
+        <file>../../Emoticon/14365991.png</file>
+        <file>../../Emoticon/84680666-black-and-white-crying-emoji-over-white-background-vector-illustration.jpg</file>
+        <file>../../Emoticon/additional_icons-27-512.png</file>
+        <file>../../Emoticon/adesivo_cara_irritada_dos_desenhos_animados_do_gato-rb60526ff445d4424bde6ee244ba4c89a_v9waf_8byvr_307.jpg</file>
+        <file>../../Emoticon/cara-cuadrada-sonriente-con-los-dientes-rotos_318-56057.png.jpg</file>
+        <file>../../Emoticon/dog_emoji_bloodhound_square_sticker-r9f37dfb760214b5ebc9c3a1e73df2045_v9i40_8byvr_307.jpg</file>
+        <file>../../Emoticon/dog_emoji_dachshund_square_sticker-r5759245212af43a6b5a40cc311551d9b_v9i40_8byvr_307.jpg</file>
+        <file>../../Emoticon/dog_emoji_french_bulldog_square_sticker-re06e0ada8560446a9fdf19694a026ce3_v9i40_8byvr_630.jpg</file>
+        <file>../../Emoticon/dog_emoji_westie_square_sticker-rb2a4dbf8c35246559acf3d605c7ff0ec_v9i40_8byvr_307.jpg</file>
+        <file>../../Emoticon/dog-happy-square-face-head-icon-contour-line-vector-21532305.jpg</file>
+        <file>../../Emoticon/face.png</file>
+        <file>../../Emoticon/facebook.png</file>
+        <file>../../Emoticon/images.png</file>
+        <file>../../Emoticon/imagessdfgh.png</file>
+        <file>../../Emoticon/istockphoto-1069971384-612x612.jpg</file>
+        <file>../../Emoticon/kisspng-computer-icons-download-emoticon-square-5adfc0f5d55726.7960704715246133658739.jpg</file>
+        <file>../../Emoticon/sad-emoji-clipart-black-background-162459-2422956.jpg.png</file>
+        <file>../../Emoticon/sdfgh.png</file>
+        <file>../../Emoticon/smiley-square-face-with-sunglasses_318-60220.jpg</file>
+        <file>../../Emoticon/smileys-clipart-shape-766714-1213927.jpg</file>
+    </qresource>
+</RCC>
