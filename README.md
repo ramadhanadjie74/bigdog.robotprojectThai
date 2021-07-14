@@ -17,5 +17,6 @@ dan memiliki fungsi untuk menampilkan beberapa display emosi :
 - SEDIH
 - MARAH
 - dan beberapa emosi lainnya
-Program yang digunakan adalah 
+Program IDE yang digunakan adalah QTCreator. Dengan Bahasa C+.
 ROBOT mempunyai 4 motor penggerak, 1 OrangePi. Robot dikendalikan menggunakan CONTROLLER GUI yang diremote ke orangePI melalui notebook.
+.
